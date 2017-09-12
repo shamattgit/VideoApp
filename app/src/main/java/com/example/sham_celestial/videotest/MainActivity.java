@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         clk  = (Button) findViewById(R.id.button);
         videov = (VideoView) findViewById(R.id.videoView);
-      //sfs
     }
 
     @Override
